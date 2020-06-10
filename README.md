@@ -1,4 +1,4 @@
-# Projeto Cadastto em React
+# Projeto Cadastro em React
 
 Aplicação de cadastro implementado tanto o front-end
 quanto o back-end
