@@ -10,12 +10,6 @@ quanto o back-end
 * Bootstrap
 * Axios
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
 ## Install dependences
 
 ### `npm i`
